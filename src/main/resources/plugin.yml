@@ -1,0 +1,6 @@
+name: ZvJump
+version: '${project.version}'
+main: dev.zvsv.Main
+api-version: 1.19
+authors: [ zvsv ]
+description: DoubleJump Plugin
